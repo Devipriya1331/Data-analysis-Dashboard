@@ -38,9 +38,12 @@ This dashboard is built to showcase skills in **data visualization, business int
 
 ---
 
-## 🗂️ Data Used
+## 🗂️ Dataset Used
 
--<a href="https://github.com/Devipriya1331/Data-analysis-Dashboard/blob/main/dp%20%20powerBI.pbix">Dataset</a>
+
+-<a href="https://github.com/Devipriya1331/Data-analysis-Dashboard/blob/main/dp%20bi%20dashboard.png"<View Dashboard Outline</a>
+-Dashboard Interaction <a href="https://github.com/Devipriya1331/Data-analysis-Dashboard/blob/main/dp%20%20powerBI.pbix">View Dashboard project</a>
+-<a href=" ">Dataset</a>
 
 The dataset includes columns such as:
 - `CustomerName`
