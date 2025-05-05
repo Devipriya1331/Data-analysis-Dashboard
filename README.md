@@ -37,7 +37,12 @@ This dashboard is built to showcase skills in **data visualization, business int
 - 📚 **Profit by Sub-Category**  
 
 ---
+## Dashboard
 
+![dp bi dashboard](https://github.com/user-attachments/assets/265d2970-ceb3-4329-be55-520453f29dd9)
+
+
+---
 ## 🗂️ Dataset Used
 
 
