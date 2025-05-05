@@ -98,4 +98,4 @@ This dashboard can be used by:
 
 ## 🔖 Credits
 
-Created by **Priya** – B.Tech IT 
+Created by **Devipriya.P** – B.Tech IT 
