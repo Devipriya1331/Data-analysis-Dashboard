@@ -64,7 +64,7 @@ The dataset includes columns such as:
 
 - `Devipriya ecommerce data.zip` – Contains the dataset (CSV/Excel)
 - `dp bi dashboard.png` – Final dashboard screenshot
-
+- `.pbix` file  – Power BI project file
 
 ---
 
